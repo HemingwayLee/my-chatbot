@@ -1,5 +1,12 @@
 # my-chatbot
 
+## Slack bot
+
+## State machine
+
+https://rapidapi.com/skyscanner/api/skyscanner-flight-search  
+
+## Seq2seq
 
 ## Ref
 <https://blog.csdn.net/shebao3333/article/details/78728870>
